@@ -33,3 +33,4 @@ with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-
 - **Meritorious Winner** in the Mathematical Contest in Modeling (MCM/ICM), 2015
 
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
