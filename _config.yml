@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lingbo Mo"
-  avatar           : "headshot.jpg"
+  avatar           : "/images/headshot.jpg"
   bio              : "Email: mo.169 AT osu DOT edu"
   location         : "Columbus, OH, USA"
   employer         :
