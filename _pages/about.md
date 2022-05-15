@@ -17,6 +17,7 @@ My research interests lie in natural language processing, question answering, in
 ## Publication
 - [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://arxiv.org/pdf/2110.08345.pdf) 
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun and Michael White
+<br> *60th Annual Meeting of the Association for Computational Linguistics*
 <br> **(ACL 2022 Findings, Long Paper)**
 
 - [Adversarial Learning for Visual Storytelling
