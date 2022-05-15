@@ -15,16 +15,15 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, vision and language.
 
 ## Publication
+- [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://arxiv.org/pdf/2110.08345.pdf) 
+<br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun and Michael White
+<br> **(ACL 2022 Findings, Long Paper)**
+
 - [Adversarial Learning for Visual Storytelling
 with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_11) 
 <br> **<u>Lingbo Mo</u>**, Chunhong Zhang, Yang Ji and Zheng Hu
 <br> *14th Asian Conference on Computer Vision* 
 <br> **(ACCV 2018, Long Paper)**
-
-## Preprint
-- [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://arxiv.org/pdf/2110.08345.pdf) 
-<br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun and Michael White
-<br> *arXiv Preprint* 
 
 ## Experience & Awards
 - Participating in **[Alexa Prize TaskBot Challenge](https://developer.amazon.com/alexaprize)** as a member of OSU team, 2021
