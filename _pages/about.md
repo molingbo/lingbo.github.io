@@ -23,7 +23,7 @@ My research interests lie in natural language processing, question answering, in
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
 <br> <u>**Lingbo Mo**</u>\*, Zhen Wang\*, Jie Zhao, Huan Sun
-<br> *NAACL 2022 Structured and Unstructured Knowledge Integration (SUKI)*
+<br> **(NAACL 2022 Structured and Unstructured Knowledge Integration, SUKI)**
 
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://assets.amazon.science/9a/30/5e4931ec41d78abad730707ce95a/bootstrapping-a-user-centered-task-oriented-dialogue-system.pdf) 
 <br> Shijie Chen, Ziru Chen, Xiang Deng, Ashley Lewis, **<u>Lingbo Mo</u>**, Samuel Stevens, Zhen Wang, Xiang Yue, Tianshu Zhang, Yu Su, Huan Sun
@@ -38,7 +38,7 @@ with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-
 
 ## Experience & Awards
 - Research Intern at Amazon Alexa Shopping, 2022
-- Earned the third-place honor in the inaugural **[Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge), 2022
+- Earned the third-place honor in the inaugural [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge), 2022
 - Research Intern at [Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/english/home/index.htm), 2019
 - Awarded the title of **Academic Star** of BUPT, 2018
 - **Meritorious Winner** in the Mathematical Contest in Modeling (MCM/ICM), 2015
