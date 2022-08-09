@@ -22,7 +22,7 @@ My research interests lie in natural language processing, question answering, in
 
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
-<br> **<u>Lingbo Mo</u>**, Zhen Wang, Jie Zhao, Huan Sun
+<br> <u>**Lingbo Mo**</u>\*, Zhen Wang\*, Jie Zhao, Huan Sun
 <br> *NAACL 2022 Structured and Unstructured Knowledge Integration (SUKI)*
 
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://assets.amazon.science/9a/30/5e4931ec41d78abad730707ce95a/bootstrapping-a-user-centered-task-oriented-dialogue-system.pdf) 
