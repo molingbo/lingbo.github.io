@@ -15,9 +15,13 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, vision and language.
 
 ## Publication
+- [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012)
+<br> Kai Zhang\*, **<u>Lingbo Mo</u>**\*, Wenhu Chen, Huan Sun, Yu Su
+<br> **(In Arxiv \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\])**
+
 - [INSPIRED: A Large-Scale Dataset and Simulation Framework for Exploring Interactive Learning in Knowledge-Based Question Answering](https://internlp.github.io/documents/2022/14.pdf)
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
-<br> *Interactive Learning for Natural Language Processing Workshop at NeurlPS 2022*
+<br> **(Interactive Learning for Natural Language Processing Workshop at NeurlPS 2022)**
 
 - [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://aclanthology.org/2022.findings-acl.28.pdf) 
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
