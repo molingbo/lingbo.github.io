@@ -15,6 +15,11 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, vision and language.
 
 ## Publication
+- [Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System](https://molingbo.github.io/)
+<br> **<u>Lingbo Mo</u>**, Shijie Chen, Ziru Chen, Xiang Deng, Ashley Lewis, Sunit Singh, Samuel Stevens, Chang-You Tai, Zhen Wang, Xiang Yue, Tianshu Zhang, Yu Su, Huan Sun
+<br> *24th Meeting of the Special Interest Group on Discourse and Dialogue*
+<br> **(Accepted by SIGDIAL 2023)**
+
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012)
 <br> Kai Zhang\*, **<u>Lingbo Mo</u>**\*, Wenhu Chen, Huan Sun, Yu Su
 <br> **(In Arxiv \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\])**
