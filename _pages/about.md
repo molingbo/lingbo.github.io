@@ -38,7 +38,7 @@ My research interests lie in natural language processing, question answering, in
 
 - [INSPIRED: A Large-Scale Dataset and Simulation Framework for Exploring Interactive Learning in Knowledge-Based Question Answering](https://internlp.github.io/documents/2022/14.pdf)
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
-<br> **(Interactive Learning for Natural Language Processing Workshop at NeurlPS 2022)**
+<br> **(InterNLP @ NeurlPS 2022)**
 
 - [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://aclanthology.org/2022.findings-acl.28.pdf) 
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
@@ -48,7 +48,7 @@ My research interests lie in natural language processing, question answering, in
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
 <br> **<u>Lingbo Mo</u>**\*, Zhen Wang\*, Jie Zhao, Huan Sun
-<br> **(Structured and Unstructured Knowledge Integration Workshop at NAACL 2022)**
+<br> **(SUKI @ NAACL 2022)**
 
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://assets.amazon.science/9a/30/5e4931ec41d78abad730707ce95a/bootstrapping-a-user-centered-task-oriented-dialogue-system.pdf) 
 <br> Shijie Chen, Ziru Chen, Xiang Deng, Ashley Lewis, **<u>Lingbo Mo</u>**, Samuel Stevens, Zhen Wang, Xiang Yue, Tianshu Zhang, Yu Su, Huan Sun
