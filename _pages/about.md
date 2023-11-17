@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) (BUPT).
+I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
 
 ## Research Interest
 
@@ -43,7 +43,7 @@ My research interests lie in natural language processing, question answering, in
 - [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://aclanthology.org/2022.findings-acl.28.pdf) 
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
 <br> *60th Annual Meeting of the Association for Computational Linguistics*
-<br> **(ACL 2022 Findings, Long Paper)**
+<br> **(ACL 2022 Findings)**
 
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
@@ -59,7 +59,7 @@ Question Answering](https://aclanthology.org/2022.suki-1.7.pdf)
 with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_11) 
 <br> **<u>Lingbo Mo</u>**, Chunhong Zhang, Yang Ji and Zheng Hu
 <br> *14th Asian Conference on Computer Vision* 
-<br> **(ACCV 2018, Long Paper)**
+<br> **(ACCV 2018)**
 
 ## Experience & Awards
 - Research Intern at Amazon Alexa Shopping, 2022
