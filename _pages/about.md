@@ -12,7 +12,7 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 
 ## Research Interest
 
-My research interests lie in natural language processing, question answering, interactive semantic parsing, vision and language.
+My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLM, vision and language.
 
 ## Publication
 - [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
