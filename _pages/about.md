@@ -15,6 +15,16 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, vision and language.
 
 ## Publication
+- [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
+<br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
+<br> **(arXiv 2023)**
+
+
+- [TACO 2.0: A Task-Oriented Dialogue System with Mixed Initiatives and Multi-Modal Interaction](https://assets.amazon.science/0d/db/7615977e4bf5b307ba5a0d2ed860/taco-tb2-final-2023.pdf) 
+<br> **<u>Lingbo Mo</u>**, Huanli Gong, Sunit Singh, Chang-You Tai, Tianhao Zang, Tianshu Zhang, Huan Sun
+<br> *2st Proceedings of Alexa Prize TaskBot*
+<br> **(Alexa Prize 2023)**
+
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012) 
 \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\]
 <br> Kai Zhang\*, **<u>Lingbo Mo</u>**\*, Wenhu Chen, Huan Sun, Yu Su
