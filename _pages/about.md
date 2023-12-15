@@ -15,6 +15,11 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLM, vision and language.
 
 ## Publication
+- [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://molingbo.github.io/) 
+<br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
+<br> *The 46th European Conference on Information Retrieval*
+<br> **(ECIR 2024)**
+
 - [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
 <br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
 <br> **(arXiv 2023)**
