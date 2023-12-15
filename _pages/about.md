@@ -12,7 +12,7 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 
 ## Research Interest
 
-My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLM, vision and language.
+My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLMs, vision and language.
 
 ## Publication
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://molingbo.github.io/) 
@@ -32,7 +32,7 @@ My research interests lie in natural language processing, question answering, in
 
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012) 
 \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\]
-<br> Kai Zhang\*, **<u>Lingbo Mo</u>**\*, Wenhu Chen, Huan Sun, Yu Su
+<br> Kai Zhang\*, **<u>Lingbo Mo</u>**\*, Wenhu Chen, Huan Sun, Yu Su (* denotes equal contribution)
 <br> *Thirty-seventh Conference on Neural Information Processing Systems*
 <br> **(NeurIPS 2023)**
 
@@ -52,7 +52,7 @@ My research interests lie in natural language processing, question answering, in
 
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
-<br> **<u>Lingbo Mo</u>**\*, Zhen Wang\*, Jie Zhao, Huan Sun
+<br> **<u>Lingbo Mo</u>**\*, Zhen Wang\*, Jie Zhao, Huan Sun (* denotes equal contribution)
 <br> **(SUKI @ NAACL 2022)**
 
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://assets.amazon.science/9a/30/5e4931ec41d78abad730707ce95a/bootstrapping-a-user-centered-task-oriented-dialogue-system.pdf) 
