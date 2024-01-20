@@ -15,7 +15,7 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLMs, vision and language.
 
 ## Publication
-- [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://molingbo.github.io/) 
+- [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
 <br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
 <br> *The 46th European Conference on Information Retrieval*
 <br> **(ECIR 2024)**
@@ -23,12 +23,6 @@ My research interests lie in natural language processing, question answering, in
 - [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
 <br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
 <br> **(arXiv 2023)**
-
-
-- [TACO 2.0: A Task-Oriented Dialogue System with Mixed Initiatives and Multi-Modal Interaction](https://assets.amazon.science/0d/db/7615977e4bf5b307ba5a0d2ed860/taco-tb2-final-2023.pdf) 
-<br> **<u>Lingbo Mo</u>**, Huanli Gong, Sunit Singh, Chang-You Tai, Tianhao Zang, Tianshu Zhang, Huan Sun
-<br> *2st Proceedings of Alexa Prize TaskBot*
-<br> **(Alexa Prize 2023)**
 
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012) 
 \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\]
@@ -41,14 +35,19 @@ My research interests lie in natural language processing, question answering, in
 <br> *24th Meeting of the Special Interest Group on Discourse and Dialogue*
 <br> **(SIGDIAL 2023)**
 
-- [INSPIRED: A Large-Scale Dataset and Simulation Framework for Exploring Interactive Learning in Knowledge-Based Question Answering](https://internlp.github.io/documents/2022/14.pdf)
-<br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
-<br> **(InterNLP @ NeurlPS 2022)**
+- [TACO 2.0: A Task-Oriented Dialogue System with Mixed Initiatives and Multi-Modal Interaction](https://assets.amazon.science/0d/db/7615977e4bf5b307ba5a0d2ed860/taco-tb2-final-2023.pdf) 
+<br> **<u>Lingbo Mo</u>**, Huanli Gong, Sunit Singh, Chang-You Tai, Tianhao Zang, Tianshu Zhang, Huan Sun
+<br> *2st Proceedings of Alexa Prize TaskBot*
+<br> **(Alexa Prize 2023)**
 
 - [Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction](https://aclanthology.org/2022.findings-acl.28.pdf) 
 <br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
 <br> *60th Annual Meeting of the Association for Computational Linguistics*
 <br> **(ACL 2022 Findings)**
+
+- [INSPIRED: A Large-Scale Dataset and Simulation Framework for Exploring Interactive Learning in Knowledge-Based Question Answering](https://internlp.github.io/documents/2022/14.pdf)
+<br> **<u>Lingbo Mo</u>**, Ashley Lewis, Huan Sun, Michael White
+<br> **(InterNLP @ NeurlPS 2022)**
 
 - [Knowledge Transfer between Structured and Unstructured Sources for Complex
 Question Answering](https://aclanthology.org/2022.suki-1.7.pdf) 
