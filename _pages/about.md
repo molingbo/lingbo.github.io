@@ -15,6 +15,10 @@ I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](
 My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLMs, vision and language.
 
 ## Publication
+- [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196) 
+<br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
+<br> **(arXiv 2024)**
+
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
 <br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
 <br> *The 46th European Conference on Information Retrieval*
