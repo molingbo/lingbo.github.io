@@ -19,6 +19,10 @@ My research interests lie in natural language processing, question answering, in
 <br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 <br> **(arXiv 2024)**
 
+- [A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models](https://arxiv.org/abs/2402.11676) 
+<br> Jaylen Jones, **<u>Lingbo Mo</u>**, Eric Fosler-Lussier, Huan Sun
+<br> **(arXiv 2024)**
+
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
 <br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
 <br> *The 46th European Conference on Information Retrieval*
