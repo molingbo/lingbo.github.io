@@ -12,7 +12,7 @@ I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University
 
 ## Research Interest
 
-My research interests lie in natural language processing, question answering, interactive semantic parsing, trustworthy LLMs, vision and language.
+My research interests lie in natural language processing, interactive systems, vision and language, safety and trustworthiness of LLMs, language agents.
 
 ## Publication
 - [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196) 
