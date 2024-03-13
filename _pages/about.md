@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lingbo Mo, a Computer Science Ph.D. student at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
+I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
 
 ## Research Interest
 
@@ -19,18 +19,18 @@ My research interests lie in natural language processing, question answering, in
 <br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 <br> **(arXiv 2024)**
 
+- [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
+<br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
+<br> **(NAACL 2024)**
+
 - [A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models](https://arxiv.org/abs/2402.11676) 
 <br> Jaylen Jones, **<u>Lingbo Mo</u>**, Eric Fosler-Lussier, Huan Sun
-<br> **(arXiv 2024)**
+<br> **(NAACL 2024)**
 
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
 <br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
 <br> *The 46th European Conference on Information Retrieval*
 <br> **(ECIR 2024)**
-
-- [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
-<br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
-<br> **(arXiv 2023)**
 
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012) 
 \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\]
