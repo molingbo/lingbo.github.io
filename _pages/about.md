@@ -21,10 +21,12 @@ My research interests lie in natural language processing, interactive systems, v
 
 - [How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities](https://arxiv.org/abs/2311.09447) 
 <br> **<u>Lingbo Mo</u>**, Boshi Wang, Muhao Chen, Huan Sun
+<br> *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*
 <br> **(NAACL 2024)**
 
 - [A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models](https://arxiv.org/abs/2402.11676) 
 <br> Jaylen Jones, **<u>Lingbo Mo</u>**, Eric Fosler-Lussier, Huan Sun
+<br> *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*
 <br> **(NAACL 2024)**
 
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
