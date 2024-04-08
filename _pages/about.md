@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
+I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. and B.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
 
 ## Research Interest
 
@@ -76,9 +76,10 @@ with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-
 <br> **(ACCV 2018)**
 
 ## Experience & Awards
+- CSE Graduate Student Research Award at OSU, 2024
 - Research Intern at Amazon Alexa Shopping, 2022
 - Earned the third-place honor in the inaugural [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge), 2022
 - Research Intern at [Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/english/home/index.htm), 2019
-- Awarded the title of **Academic Star** of BUPT, 2018
+- Awarded the title of **Academic Star** at BUPT, 2018
 - **Meritorious Winner** in the Mathematical Contest in Modeling (MCM/ICM), 2015
 
