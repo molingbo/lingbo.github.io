@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Prior to joining OSU, I received my M.S. and B.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
+I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/). Prior to joining OSU, I received my M.S. and B.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
 
 ## Research Interest
 
@@ -32,9 +32,15 @@ My research interests lie in natural language processing, interactive systems, v
 <br> **(NAACL 2024)**
 
 - [Controllable Decontextualization of Yes/No Question and Answers into Factual Statements](https://arxiv.org/abs/2401.09775) 
-<br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko and Shervin Malmasi
+<br> **<u>Lingbo Mo</u>**, Besnik Fetahu, Oleg Rokhlenko, Shervin Malmasi
 <br> *The 46th European Conference on Information Retrieval*
 <br> **(ECIR 2024)**
+
+- [Insights of a Usability Study for KBQA Interactive Semantic Parsing: Generation Yields Benefits over Templates but External Validity Remains Challenging](https://aclanthology.org/2024.humeval-1.5.pdf)
+<br> Ashley Lewis, **<u>Lingbo Mo</u>**, Marie-Catherine de Marneffe, Huan Sun, Michael White
+<br> **(HumEval @ LREC-COLING 2024)**
+
+
 
 - [MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing](https://arxiv.org/abs/2306.10012) 
 \[[Paper](https://arxiv.org/abs/2306.10012)\] \[[Project Page](https://osu-nlp-group.github.io/MagicBrush/)\]
@@ -78,6 +84,7 @@ with Sense Group Partition](https://link.springer.com/chapter/10.1007/978-3-030-
 <br> **(ACCV 2018)**
 
 ## Experience & Awards
+- Machine Learning Intern at Adobe, 2024
 - CSE Graduate Student Research Award at OSU, 2024
 - Research Intern at Amazon Alexa Shopping, 2022
 - Earned the third-place honor in the inaugural [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge), 2022
