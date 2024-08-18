@@ -14,8 +14,6 @@ I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University
 
 My research interests lie in natural language processing, interactive systems, vision and language, safety and trustworthiness of LLMs, language agents.
 
-<span style="color:orange;">I am currently looking for full-time research jobs in industry. Please feel free to reach out to me if there are any opportunities available.</span>
-
 ## Publication
 - [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196) 
 <br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
