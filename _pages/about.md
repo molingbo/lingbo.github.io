@@ -15,6 +15,11 @@ I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University
 My research interests lie in natural language processing, interactive systems, vision and language, safety and trustworthiness of LLMs, language agents.
 
 ## Publication
+- [EIA: Environmental Injection Attack on
+Generalist Web Agents For Privacy Leakage](https://arxiv.org/abs/2409.11295) 
+<br> Zeyi Liao\*, **<u>Lingbo Mo</u>**\*,  Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun (* denotes equal contribution)
+<br> **(arXiv 2024)**
+
 - [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196) 
 <br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 <br> **(arXiv 2024)**
