@@ -16,7 +16,7 @@ My research interests lie in natural language processing, interactive systems, v
 
 ## Publication
 - [EIA: Environmental Injection Attack on
-Generalist Web Agents For Privacy Leakage](https://arxiv.org/abs/2409.11295) 
+Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295) 
 <br> Zeyi Liao\*, **<u>Lingbo Mo</u>**\*,  Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun (* denotes equal contribution)
 <br> **(arXiv 2024)**
 
