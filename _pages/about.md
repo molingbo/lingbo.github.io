@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lingbo Mo, a Computer Science Ph.D. candidate at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/). Prior to joining OSU, I received my M.S. and B.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
+I am Lingbo Mo, an Applied Scientist at Amazon AWS AI Lab. Before joining AWS, I received my Ph.D. in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/) (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/). Prior to joining OSU, I received my M.S. and B.S. in the School of Information and Communication Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) (BUPT).
 
 ## Research Interest
 
