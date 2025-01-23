@@ -18,7 +18,8 @@ My research interests lie in natural language processing, interactive systems, v
 - [EIA: Environmental Injection Attack on
 Generalist Web Agents for Privacy Leakage](https://arxiv.org/abs/2409.11295) 
 <br> Zeyi Liao\*, **<u>Lingbo Mo</u>**\*,  Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun (* denotes equal contribution)
-<br> **(arXiv 2024)**
+<br> *The Thirteenth International Conference on Learning Representations*
+<br> **(ICLR 2025)**
 
 - [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196) 
 <br> **<u>Lingbo Mo</u>**, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
